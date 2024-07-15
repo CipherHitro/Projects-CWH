@@ -1,6 +1,5 @@
 # This is the game like KBC where we aks question about our nation to user and user have to answer that and then he got reward 
-import random
-# This is me 
+import random 
 # The list of the all questions :
 quiz = [
     ["Which is the national animal of India?", "Tiger", "Lion", "Elephant", "Leopard", 1],
